@@ -2,7 +2,7 @@
 title: "ドメインでしりとりがしたい"
 emoji: "🌐"
 type: "tech" # tech: 技術記事 / idea: アイデア
-topics: ["ドメイン", "URL", "しりとり"]
+topics: ["ドメイン", "URL", "しりとり", "ゲーム", "DNS"]
 published: false
 ---
 
