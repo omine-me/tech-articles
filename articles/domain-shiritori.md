@@ -15,7 +15,7 @@ published: false
 
 https://m-shiritori.omine.me
 
-![thumb.png](../images/domain-shiritori/thumb.png)
+![サイトのスクリーンショット](https://github.com/omine-me/tech-articles/blob/main/images/domain-shiritori/thumb.png?raw=true)
 
 
 ## ルール
@@ -61,6 +61,6 @@ https://m-shiritori.omine.me
 作者のベストスコアは118,988点です！
 挑戦の結果をXで共有して欲しいです！
 
-![best_result.png](../images/domain-shiritori/best_result.png)
+![118,988点の表示と入力したドメインがリストで表示されたリザルト画面](https://github.com/omine-me/tech-articles/blob/main/images/domain-shiritori/best_result.png?raw=true)
 
 ※ 打ち込んだドメインに実際にアクセスするのは、セキュリティ的におすすめしません！
